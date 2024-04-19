@@ -53,7 +53,11 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
+<<<<<<< HEAD
 * O. Changé.
+=======
+* O. C  NONON.
+>>>>>>> b436b90e838a1593872580b6a285b4ec518ac819
 
 ## License
 
